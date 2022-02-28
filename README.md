@@ -20,37 +20,8 @@
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+</p>    
 </p>
-
-<br/>
-
-    
-</p>
-
-
-## 📊 My Github Stats
-
-
-
-<p align="center">
-       <a href="https://github.com/saugatrajbhandari/github-readme-stats"><img alt="Saugat Rajbhandari Github Stats" src="https://github-readme-stats.vercel.app/api?username=saugatrajbhandari&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    <a href="https://github.com/saugatrajbhandari/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Saugat Rajbhandari streak" src="https://github-readme-streak-stats.herokuapp.com/?user=saugatrajbhandari&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" /></a>
-
-   
-
-</p>
-
-  
-    
-
-
-<br/>
-<br/>
-
-<a href="https://github.com/saugatrajbhandari/github-readme-activity-graph"><img alt="Saugat Rajbhandari Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=saugatrajbhandari&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
 
 ## Connect with me:
 <p align="left">
